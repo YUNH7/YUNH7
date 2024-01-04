@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNHUI%20JO&fontSize=90&animation=twinkling)
+  
+</div>
 
 <!--
 **YUNH7/YUNH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
